@@ -77,3 +77,4 @@ The testing constructor `ConwayGameOfLife(Integer dimension, int[][] startmatrix
 test starting array.
 
 
+https://bitstorm.org/gameoflife/
